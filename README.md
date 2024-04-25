@@ -11,3 +11,5 @@ harmony > entropy;
 life is a party = life is hard work;
 #
 understanding > acceptance; understanding = true harmony;
+#
+mind + body + spirit = holy trinity; harmony => balance; mind = self; body = self; spirit = (comm)unity + nature;
