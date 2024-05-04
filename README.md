@@ -8,7 +8,7 @@ the distillation of Wisdom is what We seek.
 # Examples
 harmony > entropy;
 #
-life is a party = life is hard work;
+life is a party =? life is hard work;
 #
 understanding > acceptance; understanding = true harmony;
 #
